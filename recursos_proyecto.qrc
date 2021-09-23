@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="LOGO">
+    <file alias="EQUIPO5">Imagenes/Equipo5.PNG</file>
+  </qresource>
+  <qresource prefix="UAT_FIANS">
+    <file alias="FIANS">Imagenes/FIANS.png</file>
+    <file alias="UAT">Imagenes/UAT.png</file>
+  </qresource>
+  <qresource prefix="NUMEROS">
+    <file alias="CERO">Imagenes/Cero.png</file>
+    <file alias="CINCO">Imagenes/Cinco.png</file>
+    <file alias="CUATRO">Imagenes/Cuatro.png</file>
+    <file alias="DOS">Imagenes/Dos.png</file>
+    <file alias="NUEVE">Imagenes/Nueve.png</file>
+    <file alias="OCHO">Imagenes/Ocho.png</file>
+    <file alias="SEIS">Imagenes/Seis.png</file>
+    <file alias="SIETE">Imagenes/Siete.png</file>
+    <file alias="TRES">Imagenes/Tres.png</file>
+    <file alias="UNO">Imagenes/Uno.png</file>
+  </qresource>
+</RCC>
