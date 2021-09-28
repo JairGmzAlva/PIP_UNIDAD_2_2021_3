@@ -1,5 +1,7 @@
 # PIP_UNIDAD_2_2021_3
  
-Integrantes del equipo:
+Equipo 5
 
-Gomez Alvarado Jair Alejandro
+Integrantes:
+
+Gómez Alvarado Jair
